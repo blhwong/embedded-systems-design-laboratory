@@ -1,4 +1,4 @@
-4-led-cube-equalizer
+5-led-cube-equalizer
 ===========================
 Lab 11 Final Embedded System
 Duc Tran & Brandon Wong

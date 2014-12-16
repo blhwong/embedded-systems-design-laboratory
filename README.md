@@ -21,4 +21,5 @@ we created and manufactured a printed circuit board and implemented the LM3s811 
 1. Fixed Point Outputs
 2. Alarm Clock Design
 3. Music Player
-4. LED Cube Equalizer (Final project)
+4. Temperature Data Acquisition System
+5. LED Cube Equalizer (Final project)
